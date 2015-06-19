@@ -1,5 +1,5 @@
 # Assignment: Caching the Inverse of a Matrix
-#
+# This program is based on the example given ie Caching the Mean of a Vector
 ## This function create a special matrix object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
